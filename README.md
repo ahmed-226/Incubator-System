@@ -37,7 +37,7 @@ This system is designed to monitor health parameters that are crucial in environ
 2. **DHT11 Temperature and Humidity Sensor**
    - `DHTPIN` → Pin 4 on Arduino.
 
-3. **RGB Color Sensor (Jaundice Detection)**
+3. **TCS3200 RGB Color Sensor (Jaundice Detection)**
    - `S0` → Pin 9
    - `S1` → Pin 10
    - `S2` → Pin 11
