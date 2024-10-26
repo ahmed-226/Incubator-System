@@ -31,6 +31,8 @@ This system is designed to monitor health parameters that are crucial in environ
 
 ## Mobile Application 
 
+![Mobile Application](Mobile%20Application.png)
+
 
 ## Sensors and Pin Connections
 
