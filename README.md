@@ -29,6 +29,9 @@ This system is designed to monitor health parameters that are crucial in environ
 - **Temperature Control (Incubator Functionality):** Using a relay for basic temperature regulation.
 - **Real-time ECG Signal Visualization:** Animated ECG plot based on BPM data.
 
+## Mobile Application 
+
+
 ## Sensors and Pin Connections
 
 1. **MAX30100 Pulse Oximeter (Heart Rate and SpO₂)**
