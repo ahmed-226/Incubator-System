@@ -8,6 +8,7 @@ This project combines Arduino and Python to monitor multiple health parameters (
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Features](#features)
+  - [Mobile Application](#mobile-application) 
   - [Sensors and Pin Connections](#sensors-and-pin-connections)
   - [Getting Started](#getting-started)
   - [Arduino Code](#arduino-code)
